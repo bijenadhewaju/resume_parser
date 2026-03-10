@@ -1,0 +1,20 @@
+# ask user for input
+name=input("enter your name ")
+bio=input("enter your bio ")
+email=input("enter your email ")
+phone=input("enter your phone number ")
+address=input("enter your address: ")
+headline=input("enter your headline: ")
+photo_url=input("enter your photo url: ")
+resume_url=input("enter your resume url: ")
+
+#print user details
+print("\nResume")
+print("Name:", name)
+print("Headline:", headline)
+print("Bio:",bio)
+print("Email:", email)
+print("Phone:", phone)
+print("Address:", address)
+print("Photo URL:", photo_url)
+print("Resume URL:", resume_url)
