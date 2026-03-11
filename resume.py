@@ -1,4 +1,4 @@
-# ask user for input
+# ask user for inputs
 name=input("enter your name ")
 bio=input("enter your bio ")
 email=input("enter your email ")
